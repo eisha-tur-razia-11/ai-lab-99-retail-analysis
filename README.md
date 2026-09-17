@@ -1,5 +1,5 @@
-# ai-lab-99-retail-analysis
-Retail Customer Sales Performance Analysis featuring semantic modeling, DAX KPIs, and a Power BI Executive Dashboard.  
+# ai-lab-99-retail-analysis 
+Retail Customer Sales Performance Analysis Project featuring semantic modeling, DAX KPIs, and a Power BI Executive Dashboard.  
 # Power BI
 *.pbix
 # (Note: Remove *.pbix if you intend to upload the actual Power BI files)
